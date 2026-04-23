@@ -1,11 +1,7 @@
 {
-  "recommendations": [
-    "editorconfig.editorconfig",
-    "dbaeumer.vscode-eslint",
-    "stylelint.vscode-stylelint",
-    "syler.sass-indented",
-    "redhat.vscode-yaml",
-    "vue.volar",
-    "eamodio.gitlens"
-  ]
+    "recommendations": [
+        "myml.vscode-markdown-plantuml-preview",
+        "esbenp.prettier-vscode",
+        "jebbs.plantuml"
+    ]
 }
